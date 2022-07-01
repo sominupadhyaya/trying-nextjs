@@ -10,12 +10,7 @@ const Fetch = () =>{
             setData(response.data)
         }
         fetchData()
-    } , [])
-    
-    
-    const display = () =>{
-
-    }
+    } , []) 
     return(
         <>
         <Head>
